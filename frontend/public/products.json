@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Yoga Mat",
+    "description": "A durable, non-slip blue yoga mat perfect for floor exercises, stretching, and yoga. Provides comfort and support during workouts.",
+    "price": "20.00",
+    "image": "/images/YogaMat.png"
+  },
+  {
+    "name": "Water Bottle",
+    "description": "A 1-liter BPA-free water bottle with a secure flip-top lid, ideal for keeping hydrated during workouts.",
+    "price": "12.00",
+    "image": "/images/WaterBottle.jpg"
+  },
+  {
+    "name": "Wrist Straps",
+    "description": "Supportive wrist straps designed to improve grip and stability when lifting heavy weights.",
+    "price": "15.00",
+    "image": "/images/WristStraps.png"
+  },
+  {
+    "name": "Resistance Bands",
+    "description": "Set of 5 resistance bands with varying resistance levels for strength training and flexibility exercises.",
+    "price": "25.00",
+    "image": "/images/ResistanceBands.png"
+  },
+  {
+    "name": "Foam Roller",
+    "description": "High-density foam roller for muscle recovery, improving flexibility, and relieving muscle tightness after workouts.",
+    "price": "18.00",
+    "image": "/images/FoamRoller.png"
+  },
+  {
+    "name": "Weightlifting Gloves",
+    "description": "Breathable weightlifting gloves to prevent blisters and improve grip during intense workouts.",
+    "price": "10.00",
+    "image": "/images/WeightLifingGloves.png"
+  }
+]

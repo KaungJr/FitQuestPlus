@@ -1,0 +1,16 @@
+body {
+  scroll-behavior: smooth;
+}
+
+.divider {
+  height: 2px;
+  background-color: #ddd;
+}
+
+.hover-image {
+  transition: transform 0.3s ease-in-out;
+}
+
+.hover-image:hover {
+  transform: scale(1.05);
+}

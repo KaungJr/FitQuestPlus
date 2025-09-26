@@ -1,0 +1,19 @@
+{
+  "featurettes": [
+    {
+      "heading": "Explore Our Workout Guides.",
+      "text": "Browse through our detailed workout guides to find exercises tailored to your fitness goals. Whether you're a beginner or a seasoned athlete, we provide step-by-step guidance for push, pull, and leg routines.",
+      "image": "images/workout.jpg"
+    },
+    {
+      "heading": "Tailored Workout Programs",
+      "text": "Stay on track with our personalized workout programs. Whether your goal is strength, endurance, or overall fitness, our structured programs offer the perfect balance of exercises and rest days to achieve your goals.",
+      "image": "images/workout_program.jpg"
+    },
+    {
+      "heading": "Commit to Your Fitness Journey",
+      "text": "Your fitness journey is unique, and FitQuest is here to support you every step of the way. Whether you're just starting out or pushing toward new goals, remember that every step forward is progress. Commit to your fitness journey today, and let FitQuest guide you.",
+      "image": "images/journey2.jpg"
+    }
+  ]
+}

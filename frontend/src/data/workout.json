@@ -1,0 +1,134 @@
+{
+  "muscleGroups": [
+    {
+      "name": "Chest",
+      "workouts": [
+        {
+          "name": "Flat Barbell Bench Press",
+          "image": "bench_press.jpg",
+          "hoverImage": "bench_press2.jpg"
+        },
+        {
+          "name": "Dumbbell Bench Press",
+          "image": "dumb_bench_press.jpg",
+          "hoverImage": "dumb_bench_press2.jpg"
+        },
+        {
+          "name": "Incline Barbell Bench Press",
+          "image": "inc_bench_press.jpg",
+          "hoverImage": "inc_bench_press2.jpg"
+        },
+        {
+          "name": "Incline Dumbbell Barbell Bench Press",
+          "image": "inc_dumb_bench_press.jpg",
+          "hoverImage": "inc_dumb_bench_press2.jpg"
+        },
+        {
+          "name": "Dips",
+          "image": "dip.jpg",
+          "hoverImage": "dip2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Back",
+      "workouts": [
+        {
+          "name": "Bent Over Row",
+          "image": "bentoverRow.jpg",
+          "hoverImage": "bentoverRow2.jpg"
+        },
+        {
+          "name": "Lat Pulldown",
+          "image": "lat_pulldown.jpg",
+          "hoverImage": "lat_pulldown2.jpg"
+        },
+        {
+          "name": "Pullups",
+          "image": "pullup.jpg",
+          "hoverImage": "pullup2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Arms",
+      "workouts": [
+        {
+          "name": "Dumbbell Curl",
+          "image": "dumb_curl.jpg",
+          "hoverImage": "dumb_curl2.jpg"
+        },
+        {
+          "name": "Tricep Pushdown",
+          "image": "tri_pushdown.jpg",
+          "hoverImage": "tri_pushdown2.jpg"
+        },
+        {
+          "name": "Hammer Curl",
+          "image": "hammer_curl.jpg",
+          "hoverImage": "hammer_curl2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Shoulders",
+      "workouts": [
+        {
+          "name": "Seated Dumbbell Shoulder Press",
+          "image": "seat_dumb_shoulder_press.jpg",
+          "hoverImage": "seat_dumb_shoulder_press2.jpg"
+        },
+        {
+          "name": "Dumbbell Lateral Raise",
+          "image": "dumb_lateral_raise.jpg",
+          "hoverImage": "dumb_lateral_raise2.jpg"
+        },
+        {
+          "name": "Machine Shoulder Press",
+          "image": "machine_shoulder_press.jpg",
+          "hoverImage": "machine_shoulder_press2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Quadriceps",
+      "workouts": [
+        {
+          "name": "Leg Extension",
+          "image": "leg_extension.jpg",
+          "hoverImage": "leg_extension2.jpg"
+        },
+        {
+          "name": "Leg Press",
+          "image": "leg_press.jpg",
+          "hoverImage": "leg_press2.jpg"
+        },
+        {
+          "name": "Squat",
+          "image": "squat.jpg",
+          "hoverImage": "squat2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hamstrings",
+      "workouts": [
+        {
+          "name": "Seated Leg Curl",
+          "image": "seat_leg_curl.jpg",
+          "hoverImage": "seat_leg_curl2.jpg"
+        },
+        {
+          "name": "Romanian Deadlift",
+          "image": "romanian_deadlift.jpg",
+          "hoverImage": "romanian_deadlift2.jpg"
+        },
+        {
+          "name": "Lying Leg Curl",
+          "image": "lying_leg_curl.jpg",
+          "hoverImage": "lying_leg_curl2.jpg"
+        }
+      ]
+    }
+  ]
+}
